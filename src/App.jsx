@@ -6,9 +6,6 @@ function App() {
 
   return (
     <>
-      <div className='p-5  bg-gray-400'>
-        <Button>Click</Button>
-      </div>
     </>
   )
 }
